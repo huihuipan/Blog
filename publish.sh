@@ -10,13 +10,22 @@ git push origin main
 
 echo '已提交Blog'
 
+
+
 cp C:/$/Blog/*/*.md C:/$/hexo/source/_posts
 
 echo '复制文章'
 
-npm run build 
+
+echo '切换目录至hexo'
+
+cd C:/$/hexo
 
 echo '构建'
+
+npm run build 
+
+echo '构建成功'
 
 cd C:/$/hexo/public
 
