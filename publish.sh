@@ -6,7 +6,7 @@ git add .
 
 git commit -m 'publish'
 
-git push origin master
+git push origin main
 
 echo '已提交Blog'
 
