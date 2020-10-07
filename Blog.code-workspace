@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "Javascript"
+		},
+		{
+			"path": "Java"
+		},
+		{
+			"path": "Linux"
+		},
+		{
+			"path": "DB"
+		},
+		{
+			"path": "Docker"
+		},
+		{
+			"path": "Nginx"
+		},
+		{
+			"path": "Typescript"
+		},
+		{
+			"path": "设计模式"
+		},
+		{
+			"path": "数据结构与算法"
+		},
+		{
+			"path": "杂记"
+		},
+		{
+			"path": "CI_CD"
+		}
+	]
+}
