@@ -10,9 +10,11 @@ git push origin main
 
 echo '已提交Blog'
 
+cd C:/$/Blog/
 
+rm -rf C:/$/hexo/source/_posts
 
-cp C:/$/Blog/*/*.md C:/$/hexo/source/_posts
+cp [!杂记]/*.md C:/$/hexo/source/_posts
 
 echo '复制文章'
 
