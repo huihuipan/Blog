@@ -10,11 +10,17 @@ git push origin main
 
 echo '已提交Blog'
 
-cd C:/$/Blog/
-
 rm -rf C:/$/hexo/source/_posts
 
-cp [!杂记]/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Javascript/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Java/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Linux/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/DB/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Docker/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Nginx/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Typescript/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/设计模式/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/数据结构与算法/*.md C:/$/hexo/source/_posts
 
 echo '复制文章'
 
