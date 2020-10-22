@@ -10,7 +10,7 @@ git push origin main
 
 echo '已提交Blog'
 
-rm -rf C:/$/hexo/source/_posts
+rm C:/$/hexo/source/_posts/*
 
 cp C:/$/Blog/Javascript/*.md C:/$/hexo/source/_posts
 cp C:/$/Blog/Java/*.md C:/$/hexo/source/_posts
