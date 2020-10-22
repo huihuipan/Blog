@@ -12,15 +12,15 @@ echo '已提交Blog'
 
 rm C:/$/hexo/source/_posts/*
 
-cp C:/$/Blog/Javascript/ C:/$/hexo/source/_posts
-cp C:/$/Blog/Java/ C:/$/hexo/source/_posts
-cp C:/$/Blog/Linux/ C:/$/hexo/source/_posts
-cp C:/$/Blog/DB/ C:/$/hexo/source/_posts
-cp C:/$/Blog/Docker/ C:/$/hexo/source/_posts
-cp C:/$/Blog/Nginx/ C:/$/hexo/source/_posts
-cp C:/$/Blog/Typescript/ C:/$/hexo/source/_posts
-cp C:/$/Blog/设计模式/ C:/$/hexo/source/_posts
-cp C:/$/Blog/数据结构与算法/ C:/$/hexo/source/_posts
+cp C:/$/Blog/Javascript/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Java/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Linux/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/DB/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Docker/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Nginx/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/Typescript/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/设计模式/*.md C:/$/hexo/source/_posts
+cp C:/$/Blog/数据结构与算法/*.md C:/$/hexo/source/_posts
 
 echo '复制文章'
 
