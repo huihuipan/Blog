@@ -32,6 +32,13 @@
 		},
 		{
 			"path": "ZNo-杂记"
+		},
+		{
+			"name": "leetcode",
+			"path": "leetcode"
+		},
+		{
+			"path": "骚话连篇"
 		}
 	]
 }
