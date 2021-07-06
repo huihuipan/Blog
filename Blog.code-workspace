@@ -1,44 +1,7 @@
 {
 	"folders": [
 		{
-			"path": "Javascript"
+			"path": "../blog"
 		},
-		{
-			"path": "Java"
-		},
-		{
-			"path": "Linux"
-		},
-		{
-			"path": "DB"
-		},
-		{
-			"path": "Docker"
-		},
-		{
-			"path": "Nginx"
-		},
-		{
-			"path": "Typescript"
-		},
-		{
-			"path": "设计模式"
-		},
-		{
-			"path": "数据结构与算法"
-		},
-		{
-			"path": "CI_CD"
-		},
-		{
-			"path": "ZNo-杂记"
-		},
-		{
-			"name": "leetcode",
-			"path": "leetcode"
-		},
-		{
-			"path": "骚话连篇"
-		}
 	]
 }
