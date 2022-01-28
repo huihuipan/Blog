@@ -1,3 +1,5 @@
+<div style="background: #f0efe7; color: #4e443c;font-size: 300px; height: 500px;line-height: 500px;text-align: center;">Git</div>
+
 # Git 在项目中的一种管理方式
 
 我们在个人项目上使用 git 往往比较随心随意，下面记录一种团队开发时比较稳妥的 git 使用方式，需要的命令也是非常基本，不涉及高难度操作。
